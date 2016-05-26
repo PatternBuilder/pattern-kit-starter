@@ -1,0 +1,19 @@
+.quote {
+  background: #efefef;
+  padding: 20px;
+}
+
+.quote-quotation {
+  margin-top: 0;
+  font-family: times;
+}
+.quote-reference {
+  color: #c00;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 12px;
+}
+.quote-attribution-name {
+  font-weight: bold;
+}
+
+

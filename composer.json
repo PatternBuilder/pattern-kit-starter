@@ -1,0 +1,12 @@
+{
+    "name": "patternbuilder/pattern-kit-starter",
+    "require": {
+        "pattern-builder/pattern-kit": "dev-master"
+    },
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/PatternBuilder/pattern-kit"
+      }
+    ]
+}

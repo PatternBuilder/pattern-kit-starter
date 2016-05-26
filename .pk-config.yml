@@ -1,0 +1,28 @@
+title: WebRH Schema Editor
+
+paths:
+  data:
+    - sample_files/data
+  schemas:
+    - sample_files/schemas
+  templates:
+    - sample_files/templates
+  docs:
+    - sample_files/docs
+  sg:
+    - sample_files/styleguide
+extensions:
+  data: .docs.json
+  schemas: .json
+  templates: .twig
+  docs: .docs.md
+  sg: .sg.md
+categories:
+    - Component
+assets:
+  css:
+    - /sample_files/css/style.css
+  js:
+  footer_js:
+
+

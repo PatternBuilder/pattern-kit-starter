@@ -2,7 +2,7 @@
 
 Check out the [possible colors](/sg/colors).
 
-This is how you can include a quote.
+This is how you can include a quote in a template.
 
 ```
 {% include 'quote.twig' with {

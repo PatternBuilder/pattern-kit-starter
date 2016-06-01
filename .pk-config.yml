@@ -1,27 +1,29 @@
-title: WebRH Schema Editor
+title: Pattern Kit
 
 paths:
   data:
-    - sample_files/data
+    - src/data
   schemas:
-    - sample_files/schemas
+    - src/schemas
   templates:
-    - sample_files/templates
+    - src/templates
   docs:
-    - sample_files/docs
+    - src/docs
   sg:
-    - sample_files/styleguide
+    - src/styleguide
 extensions:
-  data: .docs.json
+  data: .data.json
   schemas: .json
   templates: .twig
   docs: .docs.md
   sg: .sg.md
 categories:
+    - Pattern
     - Component
+    - Layout
 assets:
   css:
-    - /sample_files/css/style.css
+    - /src/css/style.css
   js:
   footer_js:
 

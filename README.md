@@ -1,5 +1,7 @@
 # Pattern Kit Starter
 
+> Check out Pattern Kit at [http://patternkit.info](http://patternkit.info/schema/keynote_quote)
+
 ##How to get started
 
 - Clone Repo
